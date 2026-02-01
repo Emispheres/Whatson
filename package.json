@@ -1,0 +1,10 @@
+{
+  "name": "whatson-v3",
+  "version": "1.0.0",
+  "description": "What's On - Site web mobile",
+  "scripts": {
+    "dev": "npx live-server --port=8000 --no-browser"
+  },
+  "devDependencies": {},
+  "private": true
+}
