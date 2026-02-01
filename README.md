@@ -1,6 +1,13 @@
-# What's On - Application Web
+# What's On
 
 Une application web utile et responsive pour consulter la météo, les horaires du tram et l'agenda des événements à Blagnac conçu pour les étudiants.
+
+[![Demo](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=github)](https://emispheres.github.io/Whatson/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://emispheres.github.io/Whatson/)
+
+## 🚀 Tester la démo
+
+[Essaye l'app en ligne](https://emispheres.github.io/whatson/) - Aucune installation nécessaire
 
 ## 🎯 Fonctionnalités
 
